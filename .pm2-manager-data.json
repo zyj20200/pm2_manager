@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "py",
+      "description": null,
+      "color": "#3B82F6",
+      "createdAt": "2026-01-28T06:32:19.069Z",
+      "updatedAt": "2026-01-28T06:32:19.069Z"
+    }
+  ],
+  "configs": [
+    {
+      "pm2Id": 0,
+      "groupId": 1
+    }
+  ],
+  "nextGroupId": 2
+}
